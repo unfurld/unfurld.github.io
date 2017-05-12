@@ -824,7 +824,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: #fff;
 }
 /**
- * Header 12 stylesheet  
+ * Header 12 stylesheet
  * */
 .header-12 {
   padding-top: 0;
@@ -915,7 +915,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: rgba(255, 255, 255, 0.7);
 }
 .header-12-sub .background {
-  background-image: url("../../startup/common-files/img/NY_001.jpg");
+  background-image: url("../../startup/common-files/img/paper.jpg");
   opacity: 30;
   filter: alpha(opacity=3000);
   opacity: 0.3;
@@ -1092,7 +1092,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   }
 }
 /**
- * Content 4 stylesheet  
+ * Content 4 stylesheet
  * */
 .content-4 {
   padding-top: 130px;
@@ -1184,7 +1184,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   top: 0;
 }
 /**
- * Price 1 stylesheet  
+ * Price 1 stylesheet
  * */
 .price-1 {
   padding-top: 110px;
@@ -1255,7 +1255,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   }
 }
 /**
- * Footer 1 stylesheet  
+ * Footer 1 stylesheet
  * */
 .footer-1 {
   padding-top: 85px;
