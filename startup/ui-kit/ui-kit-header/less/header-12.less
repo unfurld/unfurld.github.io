@@ -60,7 +60,7 @@
         float: left;
     }
     .hero-unit {
-        margin: 260px 0 0;
+        margin: 150px 0 0;
         padding: 0;
         background: transparent;
         h1 {
@@ -70,12 +70,15 @@
             .line-height(40px);
         }
         p {
-            .font(18px, rgba(255, 255, 255, 0.7));
+            font-size: 18px;
+            a {
+              color: inherit;
+            }
         }
     }
     .background {
-        background-image: url("../../..//common-files/img/paper.jpg");
-        .opacity(30);
+        background-image: url("../../../common-files/img/paper.jpg");
+        .opacity(90);
     }
     @media (max-width: 991px) {
         padding-bottom: 0;
