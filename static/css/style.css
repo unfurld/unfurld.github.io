@@ -17,7 +17,7 @@ textarea {
   font-size: 14px;
 }
 a {
-  color: #16a085;
+  color: white;
   text-decoration: none;
   -webkit-transition: color 0.25s, background 0.25s;
   -moz-transition: color 0.25s, background 0.25s;
@@ -848,7 +848,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   padding: 0;
   font-size: 25px;
   font-weight: normal;
-  color: #ffffff;
+  color: #62bfad;
   font-weight: 800;
 }
 .header-12 .navbar .brand img:first-child {
@@ -915,7 +915,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   color: rgba(255, 255, 255, 0.7);
 }
 .header-12-sub .background {
-  background-image: url("/common-files/img/paper.jpg");
+  background-image: url("../../startup//common-files/img/paper.jpg");
   opacity: 30;
   filter: alpha(opacity=3000);
   opacity: 0.3;
